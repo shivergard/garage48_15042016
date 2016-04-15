@@ -1,3 +1,5 @@
 [] Doc2Mama - join doctors + pacients. [3 alrady in team]
-[] Arranger - 3d printers in clinics - printet protēzes . [ need full dev team ] 
-[] 
+[]  - 3d printers in clinics - printet protēzes . [ need full dev team ] 
+[] Arranger : hardware marketplace [?] WebShop (arsts
+[] Go2Doc - Alena Oloco [ health specialist time - notify abot free times ] (2) Front/Back/UX/Droid need . Local in estonia ...
+	why to pay ? 
